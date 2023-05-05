@@ -3,7 +3,7 @@ This is my CodingNinjas Frontend Course Project of Music Player Using HTML and C
 
 ### Live Preview of the Project :
 
-[`Click on the link`]()
+[`Click on the link`](https://ranjan-bhat.github.io/my-music-player/)
 
 Welcome to my GitHub repository for my music player project! This project is a simple yet elegant music player that I built using HTML and CSS.
 
